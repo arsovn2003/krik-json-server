@@ -1,4 +1,5 @@
 var jsonServer = require("json-server");
+const customMiddleware = require("./customMiddleware");
 var server = jsonServer.create();
 var router = jsonServer.router("db.json");
 var middlewares = jsonServer.defaults();
@@ -27,7 +28,7 @@ router.render = function(req, res) {
 };
 
 server.use(middlewares);
-// server.use(simpleAuth);
+server.use(customMiddleware);
 server.use(router);
 server.listen(5000, function() {
   console.log("JSON Server is running on port 5000");

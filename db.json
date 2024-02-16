@@ -1,0 +1,430 @@
+{
+    "homepage": {
+        "banner_content": {
+            "title": "Промената доаѓа од младите",
+            "subtitle": "Кои сме ние?",
+            "text": "Центарот за младински активизам Крик е невладина, непрофитна организација основана од млади луѓе, предводена од млади луѓе и работи за и со млади луѓе."
+        },
+        "float_container": {
+            "img": "/img/homepage_nastani.jpg",
+            "heading": "Наскоро",
+            "subtitle": "Нижеме заедно",
+            "text": "Проектот 'Еднакви можности за девојчињата и младите жени во Северна Македонија' го спроведуваат Националниот младински свет на Македонија и Stella Network, со финансиска поддршка од страна на Биртанската амбасада во Скопје."
+        },
+        "services_block": {
+            "img": "/img/centar_krikni.png",
+            "arrow_img": "/img/arrow.png",
+            "heading": "Нашите услуги",
+            "subtitle1": "01 Мултифункционален Центар Крикни",
+            "service1": "Lorem ipsum dolor sit amet consectetur. Non at at risus dolor accumsan vitae dignissim. Est dapibus turpis metus ac rhoncus tellus volutpat. ",
+            "subtitle2": "02 Независни Станбени Единици",
+            "service2": "Lorem ipsum dolor sit amet consectetur. Non at at risus dolor accumsan vitae dignissim. Est dapibus turpis metus ac rhoncus tellus volutpat. ",
+            "subtitle3": "03 Советувалиште За Млади и Родители",
+            "service3": "Lorem ipsum dolor sit amet consectetur. Non at at risus dolor accumsan vitae dignissim. Est dapibus turpis metus ac rhoncus tellus volutpat. "
+        },
+        "partners_block": {
+            "heading": "Партнери",
+            "partner1": "/img/vcs.png",
+            "partner2": "/img/nmsmakedonija.png",
+            "partner3": "/img/stella-network.png",
+            "partner4": "/img/mladi-hub.png"
+        },
+        "tutorial_block": {
+            "video": "/img/video.png",
+            "headline": "Стани Волонтер",
+            "text": "Сакаш да работиш со млади лица? Оваа можност е токму за тебе."
+        },
+        "news_block": {
+            "heading": "Најнови вести"
+        }
+    },
+    "news_cards": [
+         {
+            "id": "1",
+            "img": "/img/homepage_card_1.jpg",
+            "type": "АКТИВНОСТ ECO-ACTION",
+            "date": "25.08.2023",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur. Curabitur Cursus Quis Id."
+        },
+        {
+            "id": "2",
+            "img": "/img/homepage_card_2.jpg",
+            "type": "ESC Volunteers",
+            "date": "15.08.2023 - 21.08.2023",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur. Curabitur Cursus Quis Id."
+        },
+        {
+            "id": "3",
+            "img": "/img/homepage_card_3.jpg",
+            "type": "BUILD YOUR STRENGTH",
+            "date": "07.07.2023",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur. Curabitur Cursus Quis Id."
+        },
+        {
+            "id": "4",
+            "img": "/img/homepage_card_4.jpg",
+            "type": "ЛЕТЕН КАМП",
+            "date": "07.07.2023",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur. Curabitur Cursus Quis Id."
+        }
+    ],
+    "about": {
+        "about_content": {
+            "img": "/img/KrikZaNas.png",
+            "content1": "Центарот за младинскиот активизам Крик е невладина, непрофитна организација основана од страна на млади луѓе, предводена од млади луѓе и работи за и со младите луѓе. ",
+            "content2": "Целната група со која КРИК работи се сите луѓе (но главно млади) кои сакаат да придонесат и направат промени во полето на екологија, критичко размислување и комуникациски вештини, како и рабење за благостојба на социјално исклучените групи од општеството и маргинализираните групи. Крик се стреми кон поттикнување на поголема партиципација на младите, младински активизам, да ги охрабри младите луѓе да бидат повеќе вклучени во процесот на креирање политики на локално и на национално ниво.",
+            "heading1": "За Крик",
+            "subheading1": "Мисија",
+            "subheading2": "Визија",
+            "subheading3": "Нашите Вредности",
+            "content3": "Да понуди активности за зајакнување на капацитетите на младите и лицата со попреченост преку развој на младинската работа и обезбедување услуги за социјална заштита.",
+            "content4": "Да создаде инклузивно општество каде младите и лицата со попреченост се подеднакво вклучени и имаат целосно развиени капацитети активно да придонесуваат за заедницата.",
+            "content5": "Развивање на младинската работа, поттикнување младински активизам и волонтеризам. Поголема вклученост на младите исклучени од општеството преку учество на работилници, настани и обуки. Развој на услуги за социјална заштита, сместување и грижа за лица со интелектуална и/или телесна попреченост и други услови. Поттикнување на социјалната вклученост на маргинализираните групи млади и возрасни во сите сфери на општественото делување.",
+            "heading2": "Најчесто поставувани прашања"
+        }
+    },
+    "team_cards": [
+        {
+            "id": "Mateo_Trenkoski",
+            "img": "/img/mateo-trenkoski.jpg",
+            "firstName": "Матео",
+            "lastName": "Тренкоски",
+            "role": "практикант во ЦМА Крик"
+        },
+        {
+            "id": "Igor_Dimovski",
+            "img": "/img/igor-dimovski.jpg",
+            "firstName": "Игор",
+            "lastName": "Димовски",
+            "role": "Координатор за волонтери во ЦМА - Крик"
+        },
+        {
+            "id": "Sara_Dimoska",
+            "img": "/img/sara-dimoska.jpg",
+            "firstName": "Сара",
+            "lastName": "Димоска",
+            "role": "Координатор во ЦМА Крик"
+        }
+    ],
+    "members_cards": [
+        {
+            "id": "1",
+            "heading": "Lorem ipsum dolor sit",
+            "subheading": "Lorem ipsum dolor sit amet consectetur.",
+            "text": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.",
+            "img": "/img/img1.png"
+        },
+        {
+            "id": "2",
+            "heading": "Lorem ipsum dolor sit",
+            "subheading": "Lorem ipsum dolor sit amet consectetur.",
+            "text": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. ",
+            "img": "/img/img2.png"
+        },
+        {
+            "id": "3",
+            "heading": "Lorem ipsum dolor sit",
+            "subheading": "Lorem ipsum dolor sit amet consectetur.",
+            "text": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper.",
+            "img": "/img/img3.png"
+        }
+    ],
+    "team": {
+            "heading1": "Запознајте го Нашиот Тим",
+            "heading2": "Членови на Управниот Одбор"
+    },
+    "donation": {
+        "first_section": {
+            "heading": "Донирај!"
+        },
+        "second_section": {
+            "text1": "Lorem ipsum dolor ist amet consectetur.",
+            "text2": "Lorem ipsum dolor sit amet consectetur. In sed lobortis donec a cras feugiat mattis velit venenatis. Adipiscing viverra praesent tristique non. Nunc blandit turpis tellus natoque mi odio viverra fermentum."
+        }
+    },
+    "volunteers": {
+        "first_section": {
+            "heading": "Нашите Волонтери"
+        }
+    },
+    "volunteers_cards": [
+        {
+            "id": "Idil_Abes",
+            "img": "/img/volonter1.png",
+            "firstName": "Idil",
+            "middleName": "",
+            "lastName": "Abes",
+            "years": "20",
+            "country": "Турција"
+        },
+        {
+            "id": "Melih_Furkan",
+            "img": "/img/volonter2.png",
+            "firstName": "Melih",
+            "middleName": "Furkan",
+            "lastName": "Orta",
+            "years": "22",
+            "country": "Турција"
+        },
+        {
+            "id": "Bedirhan_Sevim",
+            "img": "/img/volonter3.png",
+            "firstName": "Bedirhan",
+            "middleName": "",
+            "lastName": "Sevim",
+            "years": "22",
+            "country": "Турција"
+        },
+        {
+            "id": "Zeynep_Cebeci",
+            "img": "/img/volonter4.png",
+            "firstName": "Zeynep",
+            "middleName": "",
+            "lastName": "Cebeci",
+            "years": "20",
+            "country": "Турција"
+        },
+        {
+            "id": "Merve_Ozkan",
+            "img": "/img/volonter5.png",
+            "firstName": "Merve",
+            "middleName": "",
+            "lastName": "Ozkan",
+            "years": "18",
+            "country": "Турција"
+        },
+        {
+            "id": "Melek_Cakan",
+            "img": "/img/volonter6.png",
+            "firstName": "Melek",
+            "middleName": "",
+            "lastName": "Cakan",
+            "years": "20",
+            "country": "Турција"
+        },
+        {
+            "id": "Melisa_Pektas",
+            "img": "/img/volonter7.png",
+            "firstName": "Melisa",
+            "middleName": "",
+            "lastName": "Pektas",
+            "years": "23",
+            "country": "Турција"
+        },
+        {
+            "id": "Manon_Lacoste",
+            "img": "/img/volonter8.png",
+            "firstName": "Manon",
+            "middleName": "",
+            "lastName": "Lacoste",
+            "years": "21",
+            "country": "Франција"
+        },
+        {
+            "id": "Lisa_Simone",
+            "img": "/img/volonter9.png",
+            "firstName": "Lisa",
+            "middleName": "",
+            "lastName": "Simone",
+            "years": "24",
+            "country": "Франција"
+        },
+        {
+            "id": "Kaan_Algin",
+            "img": "/img/volonter10.png",
+            "firstName": "Kaan",
+            "middleName": "",
+            "lastName": "Algin",
+            "years": "23",
+            "country": "Турција"
+        },
+        {
+            "id": "Metehan_Cam",
+            "img": "/img/volonter11.png",
+            "firstName": "Metehan",
+            "middleName": "",
+            "lastName": "Cam",
+            "years": "23",
+            "country": "Турција"
+        },
+        {
+            "id": "Ali_Karabay",
+            "img": "/img/volonter12.png",
+            "firstName": "Ali",
+            "middleName": "",
+            "lastName": "Karabay",
+            "years": "29",
+            "country": "Турција"
+        }
+    ],
+    "volunteers_projects": [
+        {
+            "id": "project=1",
+            "img": "/img/homepage_card_2.jpg",
+            "type": "ESC Volunteers",
+            "date": "15.08.2023 - 21.08.2023",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur. Curabitur Cursus Quis Id.",
+            "status": "Тековен"
+        },
+        {
+            "id": "project=2",
+            "img": "/img/homepage_card_3.jpg",
+            "type": "ESC Volunteers",
+            "date": "15.08.2023 - 21.08.2023",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur. Curabitur Cursus Quis Id.",
+            "status": "Тековен"
+        },
+        {
+            "id": "project=3",
+            "img": "/img/homepage_card_4.jpg",
+            "type": "ESC Volunteers",
+            "date": "15.08.2023 - 21.08.2023",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur. Curabitur Cursus Quis Id.",
+            "status": "Завршен"
+        }
+    ],
+    "services": [
+        {
+            "component1": {
+                "heading": "Центар Крикни",
+                "content": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet. Aliquam est integer libero morbi congue est porttitor. Vitae tellus lorem arcu tortor sem tellus hendrerit nibh. Mattis volutpat nunc parturient dignissim. Tincidunt mauris velit congue rhoncus ut eget malesuada purus. Ut commodo tempus sed consectetur sem etiam. Vel enim aliquam urna orci tempus mauris vitae tincidunt habitant. "
+            },
+            "component2": {
+                "heading": "Независни станбени единици",
+                "content": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet. Aliquam est integer libero morbi congue est porttitor. Vitae tellus lorem arcu tortor sem tellus hendrerit nibh. Mattis volutpat nunc parturient dignissim. Tincidunt mauris velit congue rhoncus ut eget malesuada purus. Ut commodo tempus sed consectetur sem etiam. Vel enim aliquam urna orci tempus mauris vitae tincidunt habitant. "
+            },
+            "component3": {
+                "heading": "Советувалиште",
+                "content": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet. Aliquam est integer libero morbi congue est porttitor. Vitae tellus lorem arcu tortor sem tellus hendrerit nibh. Mattis volutpat nunc parturient dignissim. Tincidunt mauris velit congue rhoncus ut eget malesuada purus. Ut commodo tempus sed consectetur sem etiam. Vel enim aliquam urna orci tempus mauris vitae tincidunt habitant. "
+            }
+        }
+    ],
+    "services_gallery": {
+        "heading": "Галерија Со Активности",
+        "imgOne": "/img/imgOne.png",
+        "imgTwo": "/img/imgTwo.png",
+        "imgThree": "/img/imgThree.png",
+        "imgFour": "/img/imgFour.png",
+        "imgFive": "/img/imgFive.png"
+    },
+    "documents": {
+        "first_section": {
+            "year": "2023"
+        },
+        "second_section": {
+            "year": "2022"
+        },
+        "third_section": {
+            "year": "2021"
+        }
+    },
+    "documents_cards": {
+        "content": "Lorem ipsum dolor sit amet"
+    },
+    "application_form": {
+        "heading": "Волонтирај Сега!"
+    },
+    "newsletter": {
+        "content": "Lorem ipsum dolor sit amet consectetur. In natoque euismod enim cursus velit in. Libero nisi morbi sed libero egestas.",
+        "image1": "/img/image1.png",
+        "image2": "/img/image2.png",
+        "image3": "/img/image3.png"
+    },
+    "newsletter_dates": [
+        {
+            "id": "date=August2023",
+            "date": "03.08.2023",
+            "month": "Август, 2023"
+        },
+        {
+            "id": "date=Juny2023",
+            "date": "03.06.2023",
+            "month": "Јуни, 2023"
+        },
+        {
+            "id": "date=July2023",
+            "date": "03.07.2023",
+            "month": "Јули, 2023"
+        }
+    ],
+    "newsletter_news": {
+        "img1": "/img/image01.png",
+        "img2": "/img/image02.png",
+        "img3": "/img/image03.png",
+        "title": "Lorem ipsum dolor sit amet consectetur.",
+        "subtitle": "Lorem ipsum dolor sit amet consectetur. Elementum lorem viverra egestas arcu."
+    },
+    "projects": {
+        "heading1": "Тековни",
+        "heading2": "Завршени",
+        "heading3": "Млади за активно општество",
+        "img1": "/img/krik-za-koi-lica-1.png",
+        "text1": "Проектот ќе се фокусира на обезбедување и креирање иновативна дигитална алатка која ќе обезбеди онлајн можност за учење на младите од партнерски земји за развој на заедницата, активно граѓанство и процеси на одлучување.",
+        "text2": "Lorem ipsum dolor sit amet consectetur. Ipsum malesuada rutrum sem porttitor quam rhoncus elit et vulputate. Eu orci eu sit montes sit dui vitae consequat. Sed fermentum consequat amet elit urna in tincidunt curabitur.",
+        "text3": "Цел на проектот",
+        "text4": "За кого е наменет овој проект?",
+        "text5": "Lorem ipsum dolor sit amet consectetur. Ipsum malesuada rutrum sem porttitor quam rhoncus elit et vulputate. Eu orci eu sit montes sit dui vitae consequat. Sed fermentum consequat amet elit urna in tincidunt curabitur."
+    },
+    "projects_items": [
+        {
+            "id": "Project=1",
+            "img": "/img/project1.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=2",
+            "img": "/img/project2.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=3",
+            "img": "/img/project3.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=4",
+            "img": "/img/project4.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=5",
+            "img": "/img/project5.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=6",
+            "img": "/img/project6.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=7",
+            "img": "/img/project7.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=8",
+            "img": "/img/project8.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=9",
+            "img": "/img/project9.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=10",
+            "img": "/img/project10.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=11",
+            "img": "/img/project11.jpg",
+            "name": "Project Name"
+        },
+        {
+            "id": "Project=12",
+            "img": "/img/project12.jpg",
+            "name": "Project Name"
+        }
+    ]
+}
